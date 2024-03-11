@@ -30,6 +30,8 @@ Salesperson Performance: Some salespersons consistently outperform others in ter
 
 Popular Car Makes and Models: Certain car makes and models are more popular among customers, suggesting potential areas for inventory optimization and marketing focus.
 
+**Link for the Tableau File and Dataset**
+https://drive.google.com/drive/folders/1DfEQiQ-CknavVYTgLL2he9rfZE0pLgxx?usp=sharing
 
 **Conclusion:**
 Through comprehensive analysis of the car sales data using Tableau, valuable insights have been gained into sales trends, salesperson performance, customer behavior, and factors influencing sales. These insights can inform strategic decision-making and optimize sales and marketing efforts to drive business growth and profitability. Further analysis and refinement of strategies based on these insights can lead to enhanced performance and competitive advantage in the automotive industry.
